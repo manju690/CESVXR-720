@@ -1,5 +1,7 @@
 # VRA SERVICENOW  Itegration User Guide for creating RITM.
 
+![](./images/Vro Login.JPG)
+
 # Changelog
   
 | Version | Date       | Description              | Author       |
