@@ -1,7 +1,5 @@
 # VRA SERVICENOW  Itegration User Guide for creating RITM.
 
-![](./images/Vro Login.JPG)
-
 # Changelog
   
 | Version | Date       | Description              | Author       |
@@ -106,8 +104,7 @@ The scope of this document covers the following:
 	> To create a workflow, We need to follow bewlow Steps.
 	
 		1. Login to Respected Environment VRO.
- 		    ![djsfjdsf](images/Host-Properties.JPG)
-	  
+ 		![djsfjdsf](images/Host-Properties.JPG)	  
 		3. Add a resthost by Navigating Library -> Workflow -> Library -> Http-Rest -> Configurtion -> Add a Resthost.
 		4. Click on add Resthost.
 		5. Click on Run 
