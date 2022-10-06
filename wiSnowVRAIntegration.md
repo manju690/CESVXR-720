@@ -104,12 +104,15 @@ The scope of this document covers the following:
 	> To create a workflow, We need to follow bewlow Steps.
 	
 		1. Login to Respected Environment VRO.
- 	![djsfjdsf](images/Host-Properties.JPG)	  
-		3. Add a resthost by Navigating Library -> Workflow -> Library -> Http-Rest -> Configurtion -> Add a Resthost.
-		4. Click on add Resthost.
-		5. Click on Run 
-		6. Configure the Resthost properties such Host-Properties, Host- Authentication and proxy.
+ 	![djsfjdsf](snowimages/Vro-Login.JPG)	  
+		2. Add a resthost by Navigating Library -> Workflow -> Library -> Http-Rest -> Configurtion -> Add a Resthost.
+	![](snowimages/Add-resthost.png)
+		3. Click on add Resthost.	
+		4. Configure the Resthost properties such Host-Properties, Host- Authentication and proxy.	
+	![](snowimages/Host-Properties.JPG)
 		NOTE:  while adding Host URL,add only baseUrl. for eg: https://atosglobaldev.service-now.com/ is the base url.
+		5. Click on Run 
+	![](snowimages/Run.JPG)
         
  4. ***Create a worokflow***
  
