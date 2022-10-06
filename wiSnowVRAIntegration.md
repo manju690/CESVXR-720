@@ -137,6 +137,7 @@ The scope of this document covers the following:
 5. ***Configure this workflow in VRA***
 	* To Configure workflow in VRA, we need to create a Subscription and then attach in vro workflow in it.
 	* Navigate to Extensiblity -> Subscription -> New Subscription.
+ ![](snowimages/subscription-home-page.JPG)
 	* Give the subscription name, select the event topic, select the workflow that we have created in VRO. 
 	* if we need to filter any event the we can add condtion as well. to add condition we can use metadata. for eg event.data.oepration == "Reboot" will make this workflow execute only when we will reboot any VMs.
     * NOTE: If we make this subscription is blocking, While executing this workflow other workflow will not be executed until it finishes.
